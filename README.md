@@ -4,7 +4,7 @@
 
 Location: Ballarat, Victoria, Australia
 
-My favourite fluorophore: BV421
+My favourite fluorophore: BV421... although a close second would be PECy7
 
 Previous coding experience: Absolutely none, but always amazed when others can do it!
 
